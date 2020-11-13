@@ -1,0 +1,27 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body{
+	letter-spacing:1px;
+	line-height:1.5;
+	font-size:13px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.div_area1{
+	width: 1000px;
+	height: 300px;
+}
+
+.div_area2{
+	font-size: 13px;
+        line-height: 1.7;
+        padding: 8px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px dotted #140e78;
+        border-radius: 0px 0px 12px 12px;
+        height: auto;
+}
